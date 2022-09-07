@@ -1,0 +1,12 @@
+.header-link:hover{
+    opacity: 0.9;
+}
+
+.header-btn:hover{
+    color: #fff !important; 
+    background-color: #198754;
+}
+
+.site-header{
+    z-index: 10;
+}
